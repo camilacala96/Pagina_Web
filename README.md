@@ -6,3 +6,7 @@ Esta es una página web que le brinda la experiencia a usuarios y usuarias de vi
 Se crean botones interactivos para construir:
 1. Un histograma con el botón construir histograma, el cual permite analizar la cantidad de vehículos de acuerdo con el registro de su odómetro.
 2. Un diagrama de dispersión con el botón construir gráfico de dispersión el cual nos indica el valor de los vehículos en función del registro del odómetro.
+
+A cintinuación se deja el link que lleva a la página web de visualización:
+
+https://vehicles-env-nkvt.onrender.com
